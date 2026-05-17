@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: application/json');
 
-$h = 'localhost';
+$h = 'localhost';  
 $d = 'dar';
 $u = 'root';
 $p = '';
